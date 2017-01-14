@@ -1,0 +1,6 @@
+C:\Users\local\Desktop\Cw6\Cw6\Cw6\bin\Debug\Cw6.exe.config
+C:\Users\local\Desktop\Cw6\Cw6\Cw6\bin\Debug\Cw6.exe
+C:\Users\local\Desktop\Cw6\Cw6\Cw6\bin\Debug\Cw6.pdb
+C:\Users\local\Desktop\Cw6\Cw6\Cw6\obj\Debug\Cw6.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\Cw6\Cw6\Cw6\obj\Debug\Cw6.exe
+C:\Users\local\Desktop\Cw6\Cw6\Cw6\obj\Debug\Cw6.pdb
